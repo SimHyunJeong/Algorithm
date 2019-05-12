@@ -1,0 +1,6 @@
+﻿  소스.cpp
+c:\users\씸\source\repos\project1\project1\소스.cpp(22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\씸\source\repos\project1\project1\소스.cpp(26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\씸\source\repos\project1\project1\소스.cpp(39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\씸\source\repos\project1\project1\소스.cpp(50): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  Project1.vcxproj -> C:\Users\씸\source\repos\Project1\Debug\Project1.exe
